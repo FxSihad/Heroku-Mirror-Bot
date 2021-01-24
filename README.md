@@ -53,7 +53,7 @@ restart - Restarts Bot
 - First , you need to fork this repo to your Github account (Create One If you don't have)
 - On your PC , Make sure you have installed [Git](https://git-scm.com/downloads). Open Command Prompt/Terminal. Clone this repo by running:
 ```
-git clone https://github.com/wrecker3000/Heroku-Mirror-Bot
+git clone https://github.com/FxSihad/Heroku-Mirror-Bot
 cd Heroku-Mirror-Bot
 ```
 - Follow  Procedure to get credentials from Google OAuth API discussed Below or if you already have it, then continue steps from here
